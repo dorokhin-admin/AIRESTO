@@ -1,6 +1,7 @@
 # Airesto Reservations
 
 Страница просмотра бронирований ресторана на Vue 3.
+Ссылка: https://airestoru.netlify.app/
 
 ## Возможности
 
