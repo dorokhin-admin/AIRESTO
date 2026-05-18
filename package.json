@@ -1,0 +1,18 @@
+{
+  "name": "airesto-reservations",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve:static": "node scripts/static-server.js",
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.5",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {}
+}
